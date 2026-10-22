@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "zinbcdpmm"]
+	path = zinbcdpmm
+	url = https://github.com/liang-shuqing/zinb-ordinal-cdpmm-code
+	subdir = zinbcdpmm
